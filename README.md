@@ -18,7 +18,7 @@ Skills: Java / C# / PHP / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyResuello&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyResuello)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyResuello&show_icons=true&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyResuello&show_icons=true&count_private=true)  
 
