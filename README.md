@@ -13,7 +13,7 @@ Skills: Java / C# / PHP / HTML / CSS
 - 🌱 I’m currently learning Web Dev and Game Dev 
 - 📫 How to reach me: LinkedIn  
 
-# A Stats 🌱
+## My Stats 🌱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyResuello&show_icons=true&theme=radical)
 
