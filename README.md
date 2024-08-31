@@ -11,7 +11,8 @@ Skills: Java / C# / PHP / HTML / CSS
 
 - 🔭 I’m currently working on learning new programming languages :) 
 - 🌱 I’m currently learning Web Dev and Game Dev 
-- 📫 How to reach me: LinkedIn  
+- 📫 How to reach me: LinkedIn
+- ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
 ## My Stats 🌱
