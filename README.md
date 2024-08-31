@@ -16,7 +16,7 @@ Skills: Java / C# / PHP / HTML / CSS
 
 ## My Stats 🌱
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyResuello&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyResuello&show_icons=true&theme=tokyonight)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnthonyResuello)  
 
