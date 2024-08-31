@@ -25,3 +25,4 @@ Skills: Java / C# / PHP / HTML / CSS
 
 ![tumblr_m7rx2sjQpm1r4qtr7o1_500](https://github.com/user-attachments/assets/d19e84ab-bdda-4f6d-91ed-a5be9efd529a)
 ![269936f9802ac996efb7ef73931000de](https://github.com/user-attachments/assets/794cae2e-87a1-4dfb-98a9-c5bc5744a3e7)
+![Cool Animation](https://github.com/user-attachments/assets/d19e84ab-bdda-4f6d-91ed-a5be9efd529a)
