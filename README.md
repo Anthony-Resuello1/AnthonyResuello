@@ -20,7 +20,5 @@ Skills: Java / C# / PHP / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyResuello&show_icons=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyResuello&show_icons=true&count_private=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AnthonyResuello&show_icons=true&theme=tokyonight)  
 
