@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Anthony Resuello
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://www.canva.com/design/DAGPcDRKY_k/tlKgNL-QGJgYXdngOhkySg/edit?utm_content=DAGPcDRKY_k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![I am GitHub Readme Generator's creator](![Add a heading](https://github.com/user-attachments/assets/a4729a86-9e9c-4ea4-b73d-12b5ee8ae9d6))
 
 
 Skills: Java / C# / PHP / HTML / CSS 
