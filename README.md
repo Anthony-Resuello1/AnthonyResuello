@@ -13,7 +13,7 @@ Skills: Java / C# / PHP / HTML / CSS
 - 🌱 I’m currently learning Web Dev and Game Dev 
 - 📫 How to reach me: LinkedIn
 
-[](https://api.visitorbadge.io/api/VisitorHit?user=AnthonyResuello&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=AnthonyResuello&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
 ## My Stats 🌱
