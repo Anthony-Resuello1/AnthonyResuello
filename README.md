@@ -14,7 +14,7 @@ Skills: Java / C# / PHP / HTML / CSS
 - 🌱 I’m currently learning Web Dev and Game Dev 
 - 📫 How to reach me: LinkedIn  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/AnthonyResuello/github-profile-trophy)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyResuello&show_icons=true&theme=radical)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnthonyResuello)  
